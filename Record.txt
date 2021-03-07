@@ -1,0 +1,4 @@
+Department    Room No.       Name                  Age    CNIC
+ Cardiology        3            Abdullah Hanif      19      31304   
+ Medicine           6              Saffar  Khan          20     32334                                      
+ Surgery        15          fjsgcgk mahc     23    42444                      
